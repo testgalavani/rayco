@@ -1,7 +1,11 @@
 Hi 
 I am from khoy
 
+<<<<<<< HEAD
 By
 
 Chang by rayco
 
+=======
+by
+>>>>>>> parent of cb0678d... chang by rayco
